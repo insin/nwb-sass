@@ -1,5 +1,5 @@
 {
-  "name": "nwb-sass",
+  "name": "cherta-nwb-sass",
   "version": "0.5.0",
   "description": "Sass plugin for nwb",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/insin/nwb-sass.git"
+    "url": "https://github.com/cherta/nwb-sass.git"
   },
   "keywords": [
     "nwb",
