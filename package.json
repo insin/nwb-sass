@@ -8,7 +8,7 @@
   ],
   "dependencies": {
     "sass-loader": "7.1.0",
-    "node-sass": "4.9.2"
+    "node-sass": "4.12.0"
   },
   "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
   "license": "MIT",
